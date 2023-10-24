@@ -1,3 +1,6 @@
 {
-"":""
+"Enable":"0",
+  "AuthUrl":"http://ip-api.com/json",
+  "Callback":"https://11xwin.com",
+  "Regions":"BR"
 }
